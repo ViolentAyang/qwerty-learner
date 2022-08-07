@@ -8,7 +8,7 @@ const Header: React.FC = ({ children }) => {
       <div className="w-full flex items-center justify-between">
         <NavLink className="flex items-center text-indigo-400 no-underline hover:no-underline font-bold text-2xl lg:text-4xl" to="/">
           <Logo className="w-16 h-16 mr-3" />
-          Qwerty Learner
+          Violent Ayang
         </NavLink>
         <div className="flex bg-white dark:bg-gray-800 transition-colors duration-300 justify-end content-center items-center space-x-3 card rounded-large w-auto on element p-4">
           {children}
