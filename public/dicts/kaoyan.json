@@ -1,0 +1,136 @@
+[
+    {
+        "name": "neuron",
+        "trans": [
+            "神经元；神经细胞"
+        ],
+        "ukphone": "ˈnjʊərɒn"
+    },
+    {
+        "name": "hormone",
+        "trans": [
+            "荷尔蒙；激素"
+        ],
+        "ukphone":"ˈhɔːməʊn"
+    },
+    {
+        "name": "repair",
+        "trans": [
+            "修理；恢复；修正",
+            "修理，修补；维修状态；修补部分"
+        ],
+        "ukphone":"rɪˈpeə(r)"
+    },
+    {
+        "name": "plastic",
+        "trans": [
+            "塑料，塑料制品；整形；可塑体；塑料学",
+            "塑料的，可塑的，有塑性的"
+        ],
+        "ukphone":"ˈplæstɪk"
+    },
+    {
+        "name": "dizzying",
+        "trans": [
+            "使人头晕目眩的，使人头昏眼花的"
+        ],
+        "ukphone":"ˈdɪziɪŋ"
+    },
+    {
+        "name": "additive",
+        "trans": [
+            "添加剂，添加物",
+            "附加的，加法的，加成的，加和的"
+        ],
+        "ukphone":"ˈædətɪv"
+    },
+    {
+        "name": "infuse",
+        "trans": [
+            "灌输，使充满，浸渍"
+        ],
+        "ukphone":"ɪnˈfjuːz"
+    },
+    {
+        "name": "millennial",
+        "trans": [
+            "千禧一代",
+            "一千年的，千禧年的，美满的，太平盛世的 "
+        ],
+        "ukphone":"mɪˈleniəl"
+    },
+    {
+        "name": "postgraduate",
+        "trans": [
+            "研究生",
+            "大学毕业后的，研究生的"
+        ]
+    },
+    {
+        "name": "misguide",
+        "trans": [
+            "错误引导，将...引入歧途"
+        ]
+    },
+    {
+        "name": "interdisciplinary",
+        "trans": [
+            "各学科间的，跨学科的"
+        ]
+    },
+    {
+        "name": "grievance",
+        "trans": [
+            "委屈，不满，冤情，牢骚"
+        ]
+    },
+    {
+        "name": "immersive",
+        "trans": [
+            "拟真的，沉浸式的，沉浸感的，增加沉浸感的"
+        ]
+    },
+    {
+        "name": "interactive",
+        "trans": [
+            "交互式的，互相作用的，相互作用的，相互影响的"
+        ]
+    },
+    {
+        "name": "distressed",
+        "trans": [
+            "身体虚弱的，痛苦的，贫困的，忧虑的",
+            "使贫困，使痛苦，使苦恼（distress的过去式和过去分词）"
+        ]
+    },
+    {
+        "name": "passionate",
+        "trans": [
+            "热情的，热烈的，激昂的，易怒的"
+        ]
+    },
+    {
+        "name": "archeology",
+        "trans": [
+            "考古学"
+        ]
+    },
+    {
+        "name": "inhumane",
+        "trans": [
+            "残忍的，不人道的，无人情味的"
+        ]
+    },
+    {
+        "name": "captivity",
+        "trans": [
+            "囚禁，被俘，舒服"
+        ]
+    },
+    {
+        "name": "exacerbate",
+        "trans": [
+            "使加剧，激怒，使恶化"
+        ]
+    }
+]

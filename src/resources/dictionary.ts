@@ -58,6 +58,14 @@ export const dictionaries: Dictionary[] = [
     url: './dicts/js-map-set.json',
     length: 16,
   },
+  {
+    id: 'mykaoyan1',
+    name: '考研词汇本',
+    description: '刘子扬和周小湘的考研记单词历程',
+    category: '英语学习',
+    url: './dicts/kaoyan.json',
+    length: 21,
+  },
   { id: 'jsMath', name: 'JS: Math', description: 'JavaScript API 词典', category: '代码练习', url: './dicts/js-math.json', length: 38 },
   {
     id: 'jsNumber',
